@@ -1,0 +1,6 @@
+D:\Program\Visual C#\AreaIconCore\ToastHelper\bin\x64\Debug\ToastHelper.dll
+D:\Program\Visual C#\AreaIconCore\ToastHelper\bin\x64\Debug\ToastHelper.pdb
+D:\Program\Visual C#\AreaIconCore\ToastHelper\obj\x64\Debug\ToastHelper.csprojAssemblyReference.cache
+D:\Program\Visual C#\AreaIconCore\ToastHelper\obj\x64\Debug\ToastHelper.csproj.CoreCompileInputs.cache
+D:\Program\Visual C#\AreaIconCore\ToastHelper\obj\x64\Debug\ToastHelper.dll
+D:\Program\Visual C#\AreaIconCore\ToastHelper\obj\x64\Debug\ToastHelper.pdb
